@@ -1,4 +1,5 @@
 L3 - INGI 
-Python Project 
+</br>
+Python  Mini Project 
 Mental health and technology usage 2024
 
